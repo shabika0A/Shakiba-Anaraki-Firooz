@@ -4,6 +4,7 @@
   Welcome to my GitHub Profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+<br/>
 
 <!-- Website 
 <p align="center">Check out My Website: <a href="https://alisedaghi.com">alisedaghi.com</a></p>
@@ -20,18 +21,13 @@
   </a>
 </p>
 -->
-<!-- Visits & Visitors -->
 
-
-## 📊 Stats
-
+<h2 >📊 Stats</h2>
 <p align="center">
   <!-- Streak -->
-  <!-- !! PLEASE fork this repository and consider giving it a star if you'd like to use it. -->
   <img width="350" src="https://github-readme-streak-stats-8qopazm3p-haneball.vercel.app/?user=shabika0A&theme=dark&hide_border=true" />
   
   <!-- Graph -->
-  <!-- !! PLEASE fork this repository and consider giving it a star if you'd like to use it. -->
   <img width="394" src="https://github-readme-activity-graph-g56pdns35-haneball.vercel.app/graph/?username=shabika0A&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true&radius=8"/>
   
   <!-- Stats -->
@@ -40,100 +36,66 @@
   <!-- Languages -->
   <img width="313" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shabika0A&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00&hide=jupyter%20notebook,perl,assembly&exclude_repo=Berkeley-CS188-Projects,IoT-Sound-Level-Monitor,SmartRoom-ARM-STM32,IUST-CAD-Assignments" />
 </p>
-
-## ⚡ Skills
-
-<!-- Programming -->
+<br/>
+  
+<h2 >⚡ Skills</h2>
 <p align="center">
-  <code><img title="Python" height="30" src="images/python.svg"></code>
-  <code><img title="JavaScript" height="30" src="images/javascript.svg"></code>
-  <code><img title="Java" height="30" src="images/java.svg"></code>
-  <code><img title="C" height="30" src="images/c.svg"></code>
-  <code><img title="C++" height="30" src=""></code>
-  <code><img title="C#" height="30" src=""></code>
-  <code><img title="Go" height="30" src=""></code>
-  <code><img title="Bash" height="30" src="images/bash.svg"></code>
-  <code><img title="LaTeX" height="30" src="images/latex.svg"></code>
+<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" height="25"/><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="25"/>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" height="25"/>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" height="25"/>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c" alt="C" height="25"/>
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go" height="25"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" height="25"/>
+<img alt="MySQL" height="25" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logoColor=white&logo=mysql" />
 </p>
-
-<!-- Machine Learning -->
 <p align="center">
-  <code><img title="TensorFlow" height="30" src="images/tensorflow.svg"></code>
-  <code><img title="PyTorch" height="30" src="images/pytorch.svg"></code>
-  <code><img title="NumPy" height="30" src="images/numpy.svg"></code>
-  <code><img title="Pandas" height="30" src="images/pandas.png"></code>
-  <code><img title="Matplotlib" height="30" src="images/matplotlib.svg"></code>
+<img alt="Linux" height="25" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img alt="Docker" height="25" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
+<img alt="Prometheus" height="25" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>
+<img alt="Grafana" height="25" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white"/>
+<img alt="GitHub Actions" height="25" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"/>
+<img alt="GitLab" height="25" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"/>
+<img alt="Git" height="25" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img alt="Shell Script" height="25" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
 </p>
-
-<!-- Web Development -->
 <p align="center">
-  <code><img title="ReactJS" height="30" src="images/react.svg"></code>
-  <code><img title="Material‑UI" height="30" src="images/mui.svg"></code>
-  <code><img title="HTML" height="30" src="images/html.svg"></code>
-  <code><img title="CSS" height="30" src="images/css.svg"></code>
+<img alt="React" height="25" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="HTML5" height="25" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="MUI" height="25" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
+<img alt="TailwindCSS" height="25" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
-
-<!-- Software -->
 <p align="center">
-  <code><img title="Docker" height="30" src="images/docker.svg"></code>
-  <code><img title="Linux" height="30" src="images/linux.svg"></code>
-  <code><img title="NGINX" height="30" src="images/nginx.svg"></code>
-  <code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code>
-  <code><img title="Git" height="30" src="images/git.svg"></code>
-  <code><img title="Gitlab" height="30" src=""></code>
-</p>
-
-<!-- Hardware -->
-<p align="center">
-  <code><img title="Proteus" height="30" src="images/proteus.png"></code>
-  <code><img title="VHDL" height="30" src=""></code>
+<img alt="PyTorch" height="25" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat-square"/>
+<img alt="pandas" height="25" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square"/>
+<img alt="NumPy" height="25" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square"/>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.imlete.cn/?id=github.shabika0A&type=pv&label=%F0%9F%91%81visits&labelColor=ce4630&color=e05d44&style=for-the-badge">
-  <img src="https://visitor-badge.imlete.cn/?id=github.shabika0A&type=uv&label=%F0%9F%91%A4visitors&labelColor=c79600&color=e1ad0e&style=for-the-badge">
+<img alt="Proteus" height="25" src="https://img.shields.io/badge/Proteus-1C79B3?logo=proteus&style=flat-square&logoColor=fff"/>
+<img alt="LaTeX" height="25" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat-square"/>
 </p>
 
-
-<h3 align="center">⚡ Skills</h1>
-
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
-<h3 align="center"> Follow me around the web  </h1>
+<br/>
+<h2 > Follow me around the web  </h2>
 <p align="center">
    <!-- <a href="https://aminmag.ir" target="_blank"><img alt="Firefox" src="https://img.shields.io/badge/AminMAG-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white"></a> -->
-    <a href="https://github.com/shabika0A" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@shabika0A-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/shakiba-anaraki-firooz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://telegram.me/shabika0A" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-eeeee4?style=flat-square&logo=Telegram&logoColor=white"></a>
+    <a href="https://github.com/shabika0A" target="_blank"><img alt="GitHub" height="25" src="https://img.shields.io/badge/-@shabika0A-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/shakiba-anaraki-firooz/" target="_blank"><img alt="LinkedIn" height="25" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://telegram.me/shabika0A" target="_blank"><img alt="Telegram" height="25" src="https://img.shields.io/badge/-Telegram-eeeee4?style=flat-square&logo=Telegram"></a>
     <!-- <a href="https://www.instagram.com/_amin_mag_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-eeeee4?style=flat-square&logo=Instagram&logoColor=red"></a>
     <br>
-	<a href="https://github.com/Amin-MAG/Amin-MAG" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/amin-mag/amin-mag?label=profile%20updated&style=flat-square"></a> -->
-   <br>
-  	<a href="https://github.com/shabika0A/Shakiba-Anaraki-Firooz" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/shabika0A/Shakiba-Anaraki-Firooz?label=profile%20updated&style=flat-square"></a>
-
-  
+ -->
+   
+</p>
+<br/>
+<p align="center"> 
+<a href="https://github.com/shabika0A/Shakiba-Anaraki-Firooz" target="_blank">
+<img alt="GitHub hits" src="https://img.shields.io/github/last-commit/shabika0A/Shakiba-Anaraki-Firooz?label=profile%20updated&style=flat-square"></a>
+</p>
+ <p align="center"> 
+  <img height="22" src="https://visitor-badge.imlete.cn/?id=github.shabika0A&type=pv&label=%F0%9F%91%81visits&labelColor=ce4630&color=e05d44&style=for-the-badge">
+  <img height="22" src="https://visitor-badge.imlete.cn/?id=github.shabika0A&type=uv&label=%F0%9F%91%A4visitors&labelColor=c79600&color=e1ad0e&style=for-the-badge">
 </p>
 
 <!--
